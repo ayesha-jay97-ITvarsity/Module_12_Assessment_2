@@ -1,0 +1,88 @@
+html{
+    width: 100%;
+}
+
+body{
+    font-family: Tahoma;
+    margin     : 0;
+    padding    : 0;    
+
+}
+
+.contact-list{
+    background-color: rgb(43, 43, 192);
+    color           : white;
+    height          : 3rem;
+    padding-top     : 0.8rem;
+    font-weight     : 100;
+}
+
+.heading h6{
+    text-align: center;
+}
+
+table{
+    width: 100%;
+}
+
+.table p{
+    font-size: 16px;
+}
+
+img{
+    text-align      : center;
+    background-color: white;
+    border-radius   : 50%;
+}
+
+.button{
+    background-color: rgb(43, 43, 192);
+    color           : white;
+    border-radius   : 50%;
+    border-color    : white;
+    font-size       : smaller;
+    border          : 1px;
+}
+
+.contact-list button i:hover{
+    font-size: larger;
+}
+
+.contact-list .button{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.button i:hover{
+    font-size: larger;
+}
+
+/************************* EDIT CONTACT PAGE ******************************/
+
+#avatarImage {
+    background-color: rgb(43, 43, 192);
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.editButtons{
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.editButtons .button{
+    margin-left: 1.5rem;
+}
+
+.btn {
+    background-color: rgb(43, 43, 192);
+    color: white;
+    border: 1px solid black;
+}
+
+.btn:hover{
+    background-color: rgba(43, 43, 192, 0.877);
+}
+
+/************************* EDIT CONTACT PAGE ******************************/
+
